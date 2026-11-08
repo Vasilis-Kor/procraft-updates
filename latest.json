@@ -1,0 +1,9 @@
+
+{
+  "version": "1.0.2",
+  "channel": "stable",
+  "published": false,
+  "download_url": null,
+  "sha256": null,
+  "notes": "Initial setup of ProCraft Remote Update System"
+}
