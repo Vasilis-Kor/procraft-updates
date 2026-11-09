@@ -1,9 +1,11 @@
-
 {
-  "version": "1.0.2",
-  "channel": "stable",
-  "published": false,
-  "download_url": null,
-  "sha256": null,
-  "notes": "Initial setup of ProCraft Remote Update System"
+  "manifest": {
+    "version": "1.0.2",
+    "channel": "stable",
+    "published": false,
+    "download_url": null,
+    "sha256": null,
+    "notes": "Initial setup of ProCraft Remote Update System"
+  },
+  "signature": "9w+r7B8UzSU5xeTWVCrqfeYQOkDY3ub4f+pURtk28T3zOD7+7z32SApepVHFe85C+VXONsNYQrj1AtJbCutcAg=="
 }
