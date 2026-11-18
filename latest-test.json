@@ -4,7 +4,7 @@
     "channel": "test",
     "published": true,
     "download_url": "https://github.com/Vasilis-Kor/procraft-updates/releases/download/test-v1.0.4/ProCraft-TEST-Setup-104-NEW.exe",
-    "sha256": "a334d5b45bcfc37deedbe9c7b674e4d7e65be755579f5e19fa94ea57a5c66c62"
+    "sha256": "815328d08986101ee89591476487c576f2a331b24b5a779f57c514a6edb2fac5"
   },
-  "signature": "ocN/DfD7zH4/Q3pp3u6nNIvyt8HBcBB4eWQqQNx9+62YgiZs711U7w1emyug+7NqdHrSb5oX59QST8M9CA0MBQ=="
+  "signature": "NgfBvCYZfKtt85NOeXkydLrdccK2VSNgGekhjWlb+kiwzAWrKftq75U368awmU6fnB8eluSu+HF9eBR8CzFwAQ=="
 }
