@@ -1,10 +1,10 @@
 {
   "manifest": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "channel": "test",
     "published": true,
-    "download_url": "https://github.com/Vasilis-Kor/procraft-updates/releases/download/test-v1.0.4/ProCraft-TEST-Setup-104-NEW.exe",
-    "sha256": "815328d08986101ee89591476487c576f2a331b24b5a779f57c514a6edb2fac5"
+    "download_url": "https://github.com/Vasilis-Kor/procraft-updates/releases/download/test-v1.0.5/ProCraft-TEST-Setup-1.0.5.exe",
+    "sha256": "951a3e2495bb4cd311bb87d974a03692c349504702d82dc893d79d89846effea"
   },
-  "signature": "NgfBvCYZfKtt85NOeXkydLrdccK2VSNgGekhjWlb+kiwzAWrKftq75U368awmU6fnB8eluSu+HF9eBR8CzFwAQ=="
+  "signature": "a++3rbp4iJacBUBd4BJXyc88APwWXqmd/LOThGoztFKOV0qWvU5Tr4tuofyaaTI4GnhBfPDiukKP3bjQkxMFAw=="
 }
