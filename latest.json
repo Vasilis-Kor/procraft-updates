@@ -1,11 +1,10 @@
 {
   "manifest": {
-    "version": "1.0.2",
+    "version": "1.0.8",
     "channel": "stable",
-    "published": false,
-    "download_url": null,
-    "sha256": null,
-    "notes": "Initial setup of ProCraft Remote Update System"
+    "published": true,
+    "download_url": "https://github.com/Vasilis-Kor/procraft-updates/releases/download/v1.0.8/ProCraft-Stable-Upgrade-1.0.8.exe",
+    "sha256": "00ebde7a4aa0e1cdd6908f406c7fa9ba99e3f55cc51ec5c6c01fa35c512c07a1"
   },
-  "signature": "9w+r7B8UzSU5xeTWVCrqfeYQOkDY3ub4f+pURtk28T3zOD7+7z32SApepVHFe85C+VXONsNYQrj1AtJbCutcAg=="
+  "signature": "n+u4yboL0Bs8yYDw0pRe/Gw/VwuKVo84c+MiiVnRuopkbqyXADAu7zYDz5vfEeg8ES0lc0rsz2yNTd649HZIBA=="
 }
