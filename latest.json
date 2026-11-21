@@ -1,10 +1,10 @@
 {
   "manifest": {
-    "version": "1.0.8",
+    "version": "1.0.12",
     "channel": "stable",
     "published": true,
-    "download_url": "https://github.com/Vasilis-Kor/procraft-updates/releases/download/v1.0.8/ProCraft-Stable-Upgrade-1.0.8.exe",
-    "sha256": "00ebde7a4aa0e1cdd6908f406c7fa9ba99e3f55cc51ec5c6c01fa35c512c07a1"
+    "download_url": "https://github.com/Vasilis-Kor/procraft-updates/releases/download/v1.0.12/ProCraft-Stable-Upgrade-1.0.12.exe",
+    "sha256": "98495b6a2df4a758a7c8035e511eae218b85d9dd18c9d7fc4cd00f82e2a3279c"
   },
-  "signature": "n+u4yboL0Bs8yYDw0pRe/Gw/VwuKVo84c+MiiVnRuopkbqyXADAu7zYDz5vfEeg8ES0lc0rsz2yNTd649HZIBA=="
+  "signature": "o2FO4aS0lmV6JDqYdQbV3srQbjFObP6vJekfO8Kv6qGmPtbCsYZppzb0MMJwX0FL8AlZY0JIqlr67hikQbA/DQ=="
 }
